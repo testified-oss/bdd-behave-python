@@ -1,4 +1,4 @@
-import logging 
+import logging
 
 """
 This module provides logging configuration for the application.
@@ -8,5 +8,8 @@ with a level of INFO or higher, formatted to include the timestamp, log level,
 and the actual log message.
 """
 
+
 def configure_logging():
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+    logging.basicConfig(
+        level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+    )

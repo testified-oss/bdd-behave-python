@@ -47,30 +47,30 @@ This repository serves as a reference for working on BDD Behave and Selenium int
 
 ### 🔍 Types of Features
 
-1. **Unit Tests**: 
+1. **Unit Tests**:
    - Scenarios for creating mock objects and using utility functions.
 
-2. **API Tests**: 
+2. **API Tests**:
    - Scenarios for testing reponse code using Requests library.
-   
-2. **E2E Tests**: 
+
+2. **E2E Tests**:
    - Scenarios for opening the Google webpage and performing searches.
 
 <a id='steps'></a>
 
 ### 🧪 Steps Implemented
 
-- **Given Steps**: 
+- **Given Steps**:
   - Creating mock objects.
   - Makes a HTTP requests
   - Opening the Google webpage.
-  
-- **When Steps**: 
+
+- **When Steps**:
   - Calling the mock object.
   - Response is returned.
   - Searching for a query on Google.
-  
-- **Then Steps**: 
+
+- **Then Steps**:
   - Validating the expected results from the mock object.
   - Checking response code is valid.
   - Checking if the search results contain the queried term.

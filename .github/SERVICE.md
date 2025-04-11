@@ -9,7 +9,7 @@ As a condition of your use of this website or its services, you agree to:
 - 👉 Maintain the security of your account and password
 - 👉 Accept all risks of unauthorized access to your account and personal information
 - 👉 Not use the website or its services for any illegal or unauthorized purposes
-- 👉 Not interfere or disrupt the website or its services or servers or networks connected to the website 
+- 👉 Not interfere or disrupt the website or its services or servers or networks connected to the website
 - 👉 Comply with all applicable laws and regulations
 
 ## Intellectual Property 🖋️
